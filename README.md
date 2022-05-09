@@ -1,2 +1,3 @@
-# Scripts_fundamentais_da_biblioteca_PyautoGUI
-Funções básicas e fundamentais de automação com PyautoGUI, como: Automatizar o clique, cursor, velocidade e movimentação do Mouse 
+# Scripts fundamentais básicos da biblioteca PyautoGUI para aprendizado
+Funções básicas e fundamentais de automação com PyautoGUI, como: Automatizar o clique, cursor, velocidade e movimentação do Mouse.
+Os códigos estão cheios de comentários, para facilitar o entendimento e aprendizado.
